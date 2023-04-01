@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680308736 source:c:\programas emc++\1006-média 2\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+

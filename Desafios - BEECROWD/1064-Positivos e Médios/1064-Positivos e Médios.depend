@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680311206 source:c:\programas emc++\1064-positivos e médios\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+

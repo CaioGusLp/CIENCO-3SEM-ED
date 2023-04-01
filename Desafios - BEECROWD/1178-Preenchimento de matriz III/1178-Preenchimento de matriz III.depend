@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680311345 source:c:\programas emc++\1178-preenchimento de matriz iii\main.cpp
+	<iostream>
+	<iomanip>
+

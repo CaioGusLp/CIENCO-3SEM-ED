@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680304241 source:c:\programas emc++\1009- salario bonus\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+

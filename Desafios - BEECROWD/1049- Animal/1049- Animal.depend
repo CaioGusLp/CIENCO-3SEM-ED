@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680309691 source:c:\programas emc++\1049- animal\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+

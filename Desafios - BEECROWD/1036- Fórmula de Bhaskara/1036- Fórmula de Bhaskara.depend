@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680305587 source:c:\programas emc++\1036- fórmula de bhaskara\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<iomanip>
+
