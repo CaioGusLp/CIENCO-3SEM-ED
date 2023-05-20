@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684540132 source:c:\programas emc++\exercicio2_material6\main.cpp
+	<iostream>
+	<stack>
+
